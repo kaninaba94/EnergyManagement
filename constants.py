@@ -1,0 +1,4 @@
+# constants
+CAPACITY_EES = 10 # [kWh]
+DELTA_T = 1 # [h]
+MAXIMUM_CHARGING_POWER_EGEES = 5 # [kW]
