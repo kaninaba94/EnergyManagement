@@ -1,0 +1,10 @@
+# initial values
+INITIAL_CHARGE_EES = 0 #  [kWh]
+INITIAL_PRODUCTION_PV = 0 # [kW]
+INITIAL_ELECTRICAL_DEMAND = 0 # [kW]
+INITIAL_ELECTRICITY_COST = 0.3 # [€/kWh]
+
+# constants
+CAPACITY_EES = 10 # [kWh]
+DELTA_T = 1 # [h]
+MAXIMUM_CHARGING_POWER_EGEES = 5 # [kW]
